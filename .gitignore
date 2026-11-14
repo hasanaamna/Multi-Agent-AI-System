@@ -1,0 +1,37 @@
+<CodeBlock language="gitignore" editable>
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+Virtual environments
+venv/
+.venv/
+env/
+ENV/
+Environment variables and secrets
+.env
+.env.*
+!.env.example
+IDE
+.vscode/
+.idea/
+Logs
+*.log
+OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+Generated files
+generated_projects/*
+!generated_projects/.gitkeep
+Test and coverage
+.coverage
+htmlcov/
+Temporary files
+*.tmp
+*.bak
+</CodeBlock>
