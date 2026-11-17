@@ -51,3 +51,6 @@ Project Goal
 Build a complete, locally powered, multi-agent AI software development platform using free and open-source technologies.
 License
 To be decided.
+
+
+
